@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: lightpink;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	height: 80px;
+	background-color: powderblue;
+	font-size: 30px;
+	color: black;
+	border: 6px solid green;
+	
+}
+
+.three{
+	background-color: red;
+}
